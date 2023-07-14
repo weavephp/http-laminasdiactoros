@@ -11,8 +11,8 @@
 		}
 	],
 	"require": {
-		"php": "^8.0 | ^8.1",
-		"laminas/laminas-diactoros":"^2.2"
+		"php": "^8.0 | ^8.1 | ^8.2",
+		"laminas/laminas-diactoros":"^2.25 | ^3.0"
 	},
 	"require-dev": {
 		"weavephp/weave": "^2.0.0",
